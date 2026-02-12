@@ -68,9 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/grewaljasleen07/grewaljasleen07/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 
