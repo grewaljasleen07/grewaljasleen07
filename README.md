@@ -59,14 +59,9 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jasleen-grewal-07063831b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
+
+
 
 
 
